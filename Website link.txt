@@ -1,0 +1,31 @@
+http://bulbulia.editmysite.com/?login=1
+
+http://rpubs.com/roycostilla/placesofworship
+
+https://pulotu.econ.mpg.de/culture/
+
+JSON file for map:
+https://api.myjson.com/bins/s3uyl
+
+codepen:
+
+https://codepen.io/whalebiologist/pen/PmeOgK
+
+leaflet intro:
+
+http://maptimeboston.github.io/leaflet-intro/
+
+http://stackoverflow.com/questions/11832565/pull-geojson-data-into-leaflet-with-ajax-call (could be useful)
+
+geojson file:
+
+http://11782141-773132373169605302.preview.editmysite.com/uploads/1/1/7/8/11782141/churchdata.geojson
+
+tinyhost:
+
+http://s000.tinyupload.com/index.php?file_id=37585836895210274838
+
+
+Delete file
+
+http://s000.tinyupload.com/index.php?del_id=88929210299863540186
